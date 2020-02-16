@@ -1,11 +1,11 @@
 # Site settings
 author: Lesly Jean-Baptiste
-title: 
+title: Why  I decide to learn programming
 header-img: img/home-bg.png
 email: lesjba56@yahoo.com
 copyright_name: Lesly Jean-Baptiste
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Why programming
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  lesjba21
